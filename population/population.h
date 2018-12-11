@@ -136,7 +136,6 @@ class population : public person{
                     }
                     float tolerance = (float) rand()/(float)RAND_MAX; //random tolerance [0,1]
                     if (probability > tolerance){
-                        cout << " Contact is made. # " << contact << endl; 
                         for (auto f: position_of_infected){//checking bounds
                             if (f == 0){
                                 next_position = 1;//move right
@@ -153,11 +152,9 @@ class population : public person{
                             else{//infect neighbors 
                                 if (v_persons[f - 1].get_status() == "susceptible"){
                                     v_persons[f - 1].infect();
-                                    cout << " Infecting neighbor" << endl;
                                 }
                                 if (v_persons[f + 1].get_status() == "susceptible"){
                                     v_persons[f + 1].infect();
-                                    cout << " Infecting neighbor" << endl;
 
                                 }
                             }
