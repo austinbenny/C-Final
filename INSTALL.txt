@@ -1,3 +1,0 @@
-Person Output
-
-To run the person out, go to
