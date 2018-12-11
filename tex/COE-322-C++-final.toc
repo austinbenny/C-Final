@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {section}{\numberline {2}Joe: Individual person}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Code}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Output}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Results}{4}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Discussion}{4}{subsection.2.4}
+\contentsline {section}{\numberline {3}Population}{5}{section.3}
+\contentsline {subsection}{\numberline {3.1}Shortcomings}{6}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Code}{7}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Output}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Results}{8}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Discussion}{10}{subsection.3.5}
+\contentsline {section}{\numberline {4}Conclusion}{12}{section.4}
+\contentsline {section}{\numberline {5}Appendix}{14}{section.5}
+\contentsline {subsection}{\numberline {5.1}\texttt {Person.h}}{14}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}\texttt {Population.h}}{15}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}\texttt {final.m}}{19}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}\texttt {repeat.m}}{20}{subsection.5.4}
+\contentsline {section}{References}{21}{section*.7}
